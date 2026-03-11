@@ -1,7 +1,7 @@
 # portafolioMoviles
 ## ITIID 4 || Moviles || Fernando Josue Plantillas Jiménez || Numero de lista 18
 
-## Actividades Realizadas.
+## Portafolio 1.
 
 ### 01_holaMundo
 El programa mas basico en donde solo se imprime "Hola mundo".
@@ -63,8 +63,30 @@ Identificación de numeros primos.
 ### 20_factorial a y b
 Dos progarmas para sacar una factorial en donde uno se aplica con función.
 
+## Portafolio 2.
+
+### 21_sumatoria
+Un programa con recursividad que te da la sumatoria de todos los numero presentes al que insertaste.
+
+### 22_stack
+Un programa stack con push y pop con listas de numeros int.
+
+### 23_queue
+Un programa queue de nombres de usuarios con enqueue y dequeue.
+
+### 24_factorialnegativo
+Un programa de factorial que te detecta si pusiste numeros negativos ya que el factorial negativo no existe.
 
 ## Extra
 
 ### 18_PlantillasJimenezFernandoJosue
 Examen practico en donde tuve que sacar el promedio de una cantidad indefinida de alumnos.
+
+### test
+Una prueba de lo que iba a ser el examen de la unidad 2.
+
+## Firmas
+![Formulario](img/formulario.jpeg)
+
+![Lógica de modelo de negocios](img/logica_de_modelo_de_negocios.jpeg)
+Esta no se si cuente, pero lo pongo de todas formas.
